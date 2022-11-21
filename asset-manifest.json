@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hexgame/static/css/main.57b249b1.css",
+    "main.css": "/hexgame/static/css/main.fb84ec37.css",
     "main.js": "/hexgame/static/js/main.c8a186de.js",
     "static/js/787.8b9d7f4e.chunk.js": "/hexgame/static/js/787.8b9d7f4e.chunk.js",
     "index.html": "/hexgame/index.html",
-    "main.57b249b1.css.map": "/hexgame/static/css/main.57b249b1.css.map",
+    "main.fb84ec37.css.map": "/hexgame/static/css/main.fb84ec37.css.map",
     "main.c8a186de.js.map": "/hexgame/static/js/main.c8a186de.js.map",
     "787.8b9d7f4e.chunk.js.map": "/hexgame/static/js/787.8b9d7f4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57b249b1.css",
+    "static/css/main.fb84ec37.css",
     "static/js/main.c8a186de.js"
   ]
 }
